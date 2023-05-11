@@ -1,0 +1,15 @@
+.container{
+  color: white;
+  position: absolute;
+  left: 215px;
+  top: 185px;
+}
+
+.container p{
+  padding: 10px;
+  margin-bottom: 25px;
+}
+
+.container-hiw{
+  text-align: center;
+}

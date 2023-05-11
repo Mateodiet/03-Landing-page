@@ -1,0 +1,46 @@
+.footer{
+  background-color: black;
+  padding: 90px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-end{
+  color: gray;
+  display: flex;
+  align-items: center;
+}
+
+.footer-social{
+  display: flex;
+  align-items: center;
+}
+
+
+.fa-brands.fa-instagram{
+  color: #1edd88;
+  font-size:xx-large;
+  padding: 10px;
+}
+.fa-brands.fa-twitter{
+  color: #1edd88;
+  font-size:xx-large;
+  padding: 10px;
+}
+.fa-brands.fa-github{
+  color: #1edd88;
+  font-size:xx-large;
+  padding: 10px;
+}
+.fa-brands.fa-facebook-f{
+  color: #1edd88;
+  font-size:xx-large;
+  padding: 10px;
+}
+  .fa-solid.fa-heart{
+  color: red;
+}
